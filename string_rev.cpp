@@ -41,7 +41,7 @@ int main(int argc,char *argv[])
 		str_len++;
 
 	}
-	str_len--;
+	str_len--;	//ignoring Null char
 	//cout<<"String Length"<<str_len<<endl;
 	for(int i=0;i<str_len;i++)
 	{
