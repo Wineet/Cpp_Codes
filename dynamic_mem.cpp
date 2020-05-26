@@ -8,9 +8,6 @@
 
 
 #include<iostream>
-#include<string>
-
-template <class template_t>
 
 
 using namespace std;

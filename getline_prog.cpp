@@ -1,4 +1,4 @@
-/*
+\*
  * Author:   vinit 
  * Task:     --Here--
  * Hw  : 	   R-pi 3B+
@@ -8,12 +8,6 @@
 
 
 #include<iostream>
-#include<string>
-
-template <class template_t>
-
-
-using namespace std;
 
 
 /*Function Declaration Here*/
@@ -29,5 +23,5 @@ int  main(int argc,char *argv[])
 /*---- Write code here ---*/
 
 
-return 0;
+return 0
 }
